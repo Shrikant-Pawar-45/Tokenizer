@@ -55,7 +55,3 @@ To request permission, contact: https://github.com/Shrikant-Pawar-45
 
 - If you'd like to propose changes or request permission to use this code, please open an issue or contact the repository owner on GitHub.
 
-## Suggested improvements
-
-- Add a GitHub Actions workflow to run tests and linters on push.
-- Add a short `CONTRIBUTING.md` that explains how to request a license or permission.
