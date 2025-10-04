@@ -1,8 +1,4 @@
-# Tokenizer — Streamlit App
 
-A small Streamlit application that converts text into numeric tokens (character-level or word-level) and decodes them back in real time.
-
-This repository contains a single-page Streamlit app and minimal configuration to run locally or deploy on Streamlit Cloud.
 # Tokenizer — Streamlit App
 
 A small Streamlit application that converts text into numeric tokens (character-level or word-level) and decodes them back in real time.
@@ -40,10 +36,13 @@ streamlit run tokenizer.py
 
 ## Deploy to Streamlit Cloud
 
-1. Push this repository to GitHub (branch `main`).
-2. Open https://streamlit.io/cloud and create a new app.
-3. Connect your GitHub account, select this repository and the `main` branch, and set the entry file to `tokenizer.py`.
-4. Streamlit Cloud will install dependencies from `requirements.txt` and deploy the app.
+Link: https://tokenizer-converter.streamlit.app/
+
+Screenshot :
+
+![Streamlit deploy screenshot](images/image.png)
+
+
 
 ## License & Permissions
 
@@ -60,7 +59,3 @@ To request permission, contact: https://github.com/Shrikant-Pawar-45
 
 - Add a GitHub Actions workflow to run tests and linters on push.
 - Add a short `CONTRIBUTING.md` that explains how to request a license or permission.
-
----
-
-If you'd like, I can add a `CONTRIBUTING.md` and a CI workflow next. Tell me what you'd prefer.
